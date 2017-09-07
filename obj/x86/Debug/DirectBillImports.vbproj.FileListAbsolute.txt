@@ -1,0 +1,15 @@
+\\GA-315-DT-111-1\Share\newDirectBillImport\DirectBillImports\DirectBillImports\bin\Debug\DirectBillImports.exe.config
+C:\temp\ferris\DirectBillImports\DirectBillImports\bin\Debug\DirectBillImports.exe
+C:\temp\ferris\DirectBillImports\DirectBillImports\bin\Debug\DirectBillImports.pdb
+C:\temp\ferris\DirectBillImports\DirectBillImports\bin\Debug\DirectBillImports.exe.config
+C:\temp\ferris\DirectBillImports\DirectBillImports\bin\Debug\DirectBillImports.exe.manifest
+C:\temp\ferris\DirectBillImports\DirectBillImports\bin\Debug\DirectBillImports.application
+C:\temp\ferris\DirectBillImports\DirectBillImports\bin\Debug\DirectBillImports.xml
+C:\temp\ferris\DirectBillImports\DirectBillImports\obj\x86\Debug\DirectBillImports.DirectBillImportForm.resources
+C:\temp\ferris\DirectBillImports\DirectBillImports\obj\x86\Debug\DirectBillImports.Resources.resources
+C:\temp\ferris\DirectBillImports\DirectBillImports\obj\x86\Debug\DirectBillImports.vbproj.GenerateResource.Cache
+C:\temp\ferris\DirectBillImports\DirectBillImports\obj\x86\Debug\DirectBillImports.exe.manifest
+C:\temp\ferris\DirectBillImports\DirectBillImports\obj\x86\Debug\DirectBillImports.application
+C:\temp\ferris\DirectBillImports\DirectBillImports\obj\x86\Debug\DirectBillImports.exe
+C:\temp\ferris\DirectBillImports\DirectBillImports\obj\x86\Debug\DirectBillImports.xml
+C:\temp\ferris\DirectBillImports\DirectBillImports\obj\x86\Debug\DirectBillImports.pdb

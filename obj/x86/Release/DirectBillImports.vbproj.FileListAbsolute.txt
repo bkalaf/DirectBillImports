@@ -1,0 +1,2 @@
+C:\temp\ferris\DirectBillImports\DirectBillImports\bin\Release\DirectBillImports.exe
+C:\temp\ferris\DirectBillImports\DirectBillImports\bin\Release\DirectBillImports.exe.config
